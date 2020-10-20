@@ -1,2 +1,2 @@
-# module03_python
+# Module03_python
 Python code written for CodingDojo module 3 homework.
